@@ -1,0 +1,2 @@
+npm i && npm test
+npm install --save-dev jest && npm test
